@@ -11,7 +11,7 @@ android {
     buildToolsVersion project.buildToolsVersion
     defaultConfig {
         applicationId "org.horaapps.leafpic"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion project.sdkVersion
         versionName "v0.6-beta-2"
         versionCode 14
